@@ -368,12 +368,8 @@ section.section_about {
   .row {
     .col-md-6 {
       .container {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        height: 100%;
-        width: 100%;
+        height: 40vh;
+        width: 100vw;
         position: relative;
       }
 
@@ -432,7 +428,7 @@ section.section_print {
           flex-direction: column;
           justify-content: center;
           align-items: center;
-          height: 80vh;
+          height: 60vh;
           width: 100%;
           position: relative;
         }
